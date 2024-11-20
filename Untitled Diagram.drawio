@@ -132,13 +132,16 @@
           <mxGeometry x="100" y="490" width="80" height="220" as="geometry" />
         </mxCell>
         <mxCell id="LPNpe_ohdMaBUvqTUtnA-68" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Empty_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="110" y="1420" width="80" height="220" as="geometry" />
+          <mxGeometry x="210" y="1434" width="80" height="220" as="geometry" />
         </mxCell>
         <mxCell id="LPNpe_ohdMaBUvqTUtnA-69" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Empty_128x128.png;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1290" width="80" height="220" as="geometry" />
+          <mxGeometry x="210" y="1300" width="80" height="220" as="geometry" />
         </mxCell>
         <mxCell id="LPNpe_ohdMaBUvqTUtnA-71" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.horCableDuct;" vertex="1" parent="1">
           <mxGeometry x="130" y="1030" width="910" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="LPNpe_ohdMaBUvqTUtnA-72" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.horCableDuct;rotation=-89;" vertex="1" parent="1">
+          <mxGeometry x="-97.71" y="1284.98" width="510" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
