@@ -143,20 +143,20 @@
         <mxCell id="xHt-LLCXNIacoOP_8FG8-44" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.patch_panel;" vertex="1" parent="1">
           <mxGeometry x="59" y="740" width="162" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="xHt-LLCXNIacoOP_8FG8-46" value="2x24 Pair Fiber&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="410" y="720" width="210" height="30" as="geometry" />
+        <mxCell id="xHt-LLCXNIacoOP_8FG8-46" value="2x48 core&amp;nbsp; Fiber cable&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="410" y="720" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xHt-LLCXNIacoOP_8FG8-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Fiber patch cables&amp;nbsp;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="1040" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xHt-LLCXNIacoOP_8FG8-54" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Over head Cable Tray&amp;nbsp;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="962" width="300" height="78" as="geometry" />
+          <mxGeometry x="-230" y="932" width="300" height="78" as="geometry" />
         </mxCell>
         <mxCell id="xHt-LLCXNIacoOP_8FG8-55" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Ceiling&amp;nbsp;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="775" width="240" height="40" as="geometry" />
+          <mxGeometry x="470" y="775" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xHt-LLCXNIacoOP_8FG8-59" value="Fiber Patch Cord&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="305" width="80" height="30" as="geometry" />
+          <mxGeometry x="475" y="320" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xHt-LLCXNIacoOP_8FG8-60" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
           <mxGeometry x="100" y="620" width="80" height="80" as="geometry" />
@@ -170,19 +170,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xHt-LLCXNIacoOP_8FG8-58" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#33FFFF;strokeWidth=3;" edge="1" parent="1" source="xHt-LLCXNIacoOP_8FG8-44" target="xHt-LLCXNIacoOP_8FG8-60">
+        <mxCell id="xHt-LLCXNIacoOP_8FG8-58" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#33FFFF;strokeWidth=3;" edge="1" parent="1" source="xHt-LLCXNIacoOP_8FG8-62" target="xHt-LLCXNIacoOP_8FG8-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="317.38562091503286" y="664" as="sourcePoint" />
             <mxPoint x="210" y="670" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="710" />
               <mxPoint x="140" y="605" />
               <mxPoint x="160" y="660" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="xHt-LLCXNIacoOP_8FG8-62" value="Fiber Patch Cord&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="645" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xHt-LLCXNIacoOP_8FG8-65" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Fiber Patch Panel&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="800" width="290" height="50" as="geometry" />
@@ -190,7 +186,7 @@
         <mxCell id="xHt-LLCXNIacoOP_8FG8-66" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Fiber Patch Panel&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="10" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xHt-LLCXNIacoOP_8FG8-67" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#33FFFF;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="xHt-LLCXNIacoOP_8FG8-67" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#33FFFF;strokeWidth=3;" edge="1" parent="1" target="xHt-LLCXNIacoOP_8FG8-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="673.9252336448599" y="1180" as="sourcePoint" />
             <mxPoint x="210" y="1360" as="targetPoint" />
@@ -206,7 +202,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xHt-LLCXNIacoOP_8FG8-68" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="170" y="1300" width="80" height="80" as="geometry" />
+          <mxGeometry x="141" y="1480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xHt-LLCXNIacoOP_8FG8-70" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;New Rack&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1530" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xHt-LLCXNIacoOP_8FG8-72" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;New Rack&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="610" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xHt-LLCXNIacoOP_8FG8-73" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-270" y="860" as="sourcePoint" />
+            <mxPoint x="1140" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHt-LLCXNIacoOP_8FG8-74" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Option B&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;.&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="880" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xHt-LLCXNIacoOP_8FG8-76" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Over head Cable Tray&amp;nbsp;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="932" width="300" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="xHt-LLCXNIacoOP_8FG8-78" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#33FFFF;strokeWidth=3;" edge="1" parent="1" source="xHt-LLCXNIacoOP_8FG8-44" target="xHt-LLCXNIacoOP_8FG8-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="188" y="740" as="sourcePoint" />
+            <mxPoint x="180" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHt-LLCXNIacoOP_8FG8-62" value="Fiber Patch Cord&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="690" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xHt-LLCXNIacoOP_8FG8-79" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Option&amp;nbsp; A&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;.&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="60" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
