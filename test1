@@ -83,6 +83,9 @@
         <mxCell id="xHt-LLCXNIacoOP_8FG8-24" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.patch_panel;" vertex="1" parent="xHt-LLCXNIacoOP_8FG8-20">
           <mxGeometry x="9" y="160" width="162" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="xHt-LLCXNIacoOP_8FG8-82" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Fiber Patch Panel&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xHt-LLCXNIacoOP_8FG8-20">
+          <mxGeometry x="9" y="230" width="162" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="xHt-LLCXNIacoOP_8FG8-25" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=9;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=off;" vertex="1" parent="1">
           <mxGeometry x="780" y="1060" width="180" height="460" as="geometry" />
         </mxCell>
