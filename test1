@@ -267,6 +267,15 @@
         <mxCell id="xHt-LLCXNIacoOP_8FG8-99" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.permissions;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="112.5" y="-500" width="67.5" height="79.5" as="geometry" />
         </mxCell>
+        <mxCell id="xHt-LLCXNIacoOP_8FG8-100" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/On_Premises_Data_Gateways.svg;" vertex="1" parent="1">
+          <mxGeometry x="616" y="-780" width="68" height="65.2" as="geometry" />
+        </mxCell>
+        <mxCell id="xHt-LLCXNIacoOP_8FG8-101" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.porana_portrait_analysis;" vertex="1" parent="1">
+          <mxGeometry x="536" y="-940" width="49.199999999999996" height="45.3" as="geometry" />
+        </mxCell>
+        <mxCell id="xHt-LLCXNIacoOP_8FG8-102" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.user_permissions;fillColor=#0078D7;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-310" width="47" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
